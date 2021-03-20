@@ -1,4 +1,3 @@
-//Código de la Sesión 6 del Módulo 2
 //Estructuras de control parte 3
 
 //Para ejecutar este programa debemos poner en consola:
